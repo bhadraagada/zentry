@@ -32,7 +32,7 @@ const About = () => {
             <span className="btn-ping" />
             <span className="btn-ping_dot" />
           </span>
-          welcome to zentry //TODO: add gasp animation like for the title in about
+          welcome to zentry 
         </h2>
         <AnimatedTitle 
           title="Disc<b>o</b>ver the world&apos;s <br /> l<b>a</b>rgest shared adventure,"
