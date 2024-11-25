@@ -1,4 +1,5 @@
 import About from "./components/about";
+import Features from "./components/features";
 import Hero from "./components/hero";
 import Navbar from "./components/navbar";
 
@@ -8,6 +9,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <About />
+      <Features />
       <section className="z-0 min-h-screen bg-blue-500" />
     </main>
   );
