@@ -1,5 +1,7 @@
 import About from "./components/about";
+import Contact from "./components/contact";
 import Features from "./components/features";
+import Footer from "./components/footer";
 import Hero from "./components/hero";
 import Navbar from "./components/navbar";
 import Story from "./components/story";
@@ -12,7 +14,8 @@ const App = () => {
       <About />
       <Features />
       <Story />
-      <section className="z-0 min-h-screen bg-blue-500" />
+      <Contact />
+      <Footer />
     </main>
   );
 };
